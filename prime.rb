@@ -6,4 +6,4 @@ def prime?(n)
   end
 end 
 
-prime?(105557)
+puts prime?(105557)
